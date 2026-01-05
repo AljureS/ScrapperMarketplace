@@ -71,8 +71,8 @@ AIRLINES_CONFIG = [
     {
         "nombre": "Avianca",
         "codigo": "AV",
-        "url_politicas": "https://www.avianca.com/co/es/experiencia/condiciones-transporte/",
-        "url_terminos": "https://www.avianca.com/co/es/footer/terminos-y-condiciones/",
+        "url_politicas": "https://www.avianca.com/es/tu-reserva/cambios-y-reembolsos/",
+        "url_terminos": "https://www.avianca.com/es/informacion-legal/contrato-de-transporte/",
         "prioridad": "alta",
         "notas": "Líder del mercado colombiano",
         "requires_javascript": False

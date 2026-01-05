@@ -23,7 +23,7 @@ class AviancaScraper(BaseScraper):
             airline_name="Avianca",
             airline_code="AV",
             base_url="https://www.avianca.com",
-            policies_url="https://www.avianca.com/co/es/experiencia/condiciones-transporte/",
+            policies_url="",
             requires_javascript=False
         )
 
